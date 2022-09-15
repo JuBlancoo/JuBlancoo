@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**JuBlancoo/JuBlancoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá!! Eu sou a Júlia Blanco, estudante de tecnologia, seja muito bem vindo(a)  👋
 
 <div align="center">
   <a href="https://github.com/JuBlancoo">
