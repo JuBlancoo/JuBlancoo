@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img aling="center" alt="Ju-Github" height="30" width="40" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png">
+  <img aling="center" alt="Ju-Github" height="30" width="40" src="https://img.icons8.com/external-those-icons-lineal-those-icons/344/external-GitHub-social-media-those-icons-lineal-those-icons-2.png">
 </div>
 
 ##
